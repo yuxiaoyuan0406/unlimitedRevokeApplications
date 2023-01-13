@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  随时随地撤销出入校申请
 // @license      WTFPL
-// @author       You
+// @author       Dennis
 // @match        https://service.muc.edu.cn/v2/matter/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
